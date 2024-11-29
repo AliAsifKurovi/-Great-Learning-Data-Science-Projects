@@ -37,4 +37,4 @@ The objective of this project is to build and evaluate multiple classification m
 ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/AliAsifKurovi/Wine-Classification-Project.git
+     git clone https://github.com/AliAsifKurovi/Great-Learning-Data-Science-Projects.git
