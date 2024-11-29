@@ -30,10 +30,9 @@ The objective of this project is to build and evaluate multiple classification m
    - Final prediction using the Random Forest model.
 
 ## Repository Structure
-- `notebooks/`: Contains the Jupyter Notebook file (`wine_classification.ipynb`) with code for the entire analysis and modeling process.
-- `data/`: Includes the datasets used in the project:
-  - `wine_data.csv`: Original dataset.
-  - `processed_data.csv`: Preprocessed dataset used for modeling.
+- `wine_classification.ipynb`
+- `wine_data.csv`: Original dataset.
+- `wine_names.csv`: Detail about data.
 
 ## How to Use
 1. Clone this repository to your local machine:
